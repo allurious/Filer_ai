@@ -150,15 +150,6 @@ The Bronze Tier includes the `/process-inbox` skill:
 - [x] Basic folder structure (/Inbox, /Needs_Action, /Done)
 - [x] Claude Code integration (reads/writes to vault)
 
-## Next Steps: Silver Tier
-
-To upgrade to Silver Tier, add:
-- [ ] Gmail Watcher
-- [ ] LinkedIn auto-posting
-- [ ] MCP server for email actions
-- [ ] Human-in-the-loop approval workflow
-- [ ] Cron scheduling
-
 ## Troubleshooting
 
 **Watcher not detecting files?**
@@ -174,6 +165,3 @@ To upgrade to Silver Tier, add:
 - Ensure Python has write access to the vault folder
 - Run as administrator if needed (Windows)
 
-## License
-
-MIT - Built for the Personal AI Employee Hackathon
