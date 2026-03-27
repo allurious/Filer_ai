@@ -1,0 +1,40 @@
+2026-03-25 22:03:46,455 - __main__ - INFO - ==================================================
+2026-03-25 22:03:46,455 - __main__ - INFO - AI Employee - Filesystem Watcher Started
+2026-03-25 22:03:46,455 - __main__ - INFO - Watching: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox
+2026-03-25 22:03:46,455 - __main__ - INFO - Output: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action
+2026-03-25 22:03:46,455 - __main__ - INFO - ==================================================
+2026-03-25 22:04:21,679 - __main__ - INFO - New file detected: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\test_bronze.txt
+2026-03-25 22:04:22,682 - __main__ - INFO - Created metadata file: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\FILE_test_bronze.md
+2026-03-25 22:04:22,696 - __main__ - INFO - Moved file to Needs_Action: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\test_bronze.txt
+2026-03-25 22:08:55,012 - __main__ - INFO - ==================================================
+2026-03-25 22:08:55,013 - __main__ - INFO - AI Employee - Filesystem Watcher Started
+2026-03-25 22:08:55,013 - __main__ - INFO - Watching: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox
+2026-03-25 22:08:55,013 - __main__ - INFO - Output: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action
+2026-03-25 22:08:55,013 - __main__ - INFO - ==================================================
+2026-03-25 22:08:57,724 - __main__ - INFO - New file detected: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\submission_demo.txt
+2026-03-25 22:08:57,724 - __main__ - INFO - New file detected: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\submission_demo.txt
+2026-03-25 22:08:58,726 - __main__ - INFO - Created metadata file: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\FILE_submission_demo.md
+2026-03-25 22:08:58,728 - __main__ - INFO - Moved file to Needs_Action: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\submission_demo.txt
+2026-03-25 22:08:58,735 - __main__ - INFO - Created metadata file: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\FILE_submission_demo.md
+2026-03-25 22:08:58,748 - __main__ - ERROR - Error processing file C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\submission_demo.txt: [WinError 2] The system cannot find the file specified
+2026-03-25 23:53:29,491 - __main__ - INFO - ==================================================
+2026-03-25 23:53:29,492 - __main__ - INFO - AI Employee - Filesystem Watcher Started
+2026-03-25 23:53:29,492 - __main__ - INFO - Watching: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox
+2026-03-25 23:53:29,493 - __main__ - INFO - Output: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action
+2026-03-25 23:53:29,493 - __main__ - INFO - ==================================================
+2026-03-25 23:58:48,302 - __main__ - INFO - New file detected: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\my_task.txt
+2026-03-25 23:58:48,302 - __main__ - INFO - New file detected: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\my_task.txt
+2026-03-25 23:58:48,302 - __main__ - INFO - New file detected: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\my_task.txt
+2026-03-25 23:58:49,311 - __main__ - INFO - Created metadata file: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\FILE_my_task.md
+2026-03-25 23:58:49,311 - __main__ - INFO - Created metadata file: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\FILE_my_task.md
+2026-03-25 23:58:49,311 - __main__ - INFO - Created metadata file: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\FILE_my_task.md
+2026-03-25 23:58:49,338 - __main__ - INFO - Moved file to Needs_Action: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\my_task.txt
+2026-03-25 23:58:49,339 - __main__ - INFO - Moved file to Needs_Action: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\my_task.txt
+2026-03-26 00:12:38,677 - __main__ - INFO - ==================================================
+2026-03-26 00:12:38,678 - __main__ - INFO - AI Employee - Filesystem Watcher Started
+2026-03-26 00:12:38,679 - __main__ - INFO - Watching: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox
+2026-03-26 00:12:38,680 - __main__ - INFO - Output: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action
+2026-03-26 00:12:38,680 - __main__ - INFO - ==================================================
+2026-03-26 00:13:15,066 - __main__ - INFO - New file detected: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Inbox\my_task.txt
+2026-03-26 00:13:16,072 - __main__ - INFO - Created metadata file: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\FILE_my_task.md
+2026-03-26 00:13:16,085 - __main__ - INFO - Moved file to Needs_Action: C:\Users\T14\Documents\GitHub\Filer_ai\vault\Needs_Action\my_task.txt
